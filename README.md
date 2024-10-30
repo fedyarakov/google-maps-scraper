@@ -167,12 +167,6 @@ For troubleshooting or questions, please reach out via the support email in the 
 
 ---
 
-## License
-
-Presto Google Maps Scraper is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contributing
 
 We welcome contributions! Please fork this repository and open a pull request to propose improvements or bug fixes.
