@@ -107,7 +107,7 @@ Presto Google Maps Scraper is a powerful and easy-to-use tool that helps you ext
      Install Presto Google Maps Scraper directly from the [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) store for easy access and automatic updates.
 
    - **Option 2: Install from Source**  
-     Download the latest release from GitHub: [Presto 2.2.0 Full Version](https://github.com/fedyarakov/google-maps-scraper/releases/download/2.2.0/presto-2.2.0-full.zip).
+     Download the latest release from GitHub: [Presto 2.2.1 Full Version](https://github.com/fedyarakov/google-maps-scraper/releases/download/2.2.1/presto-2.2.1-full.zip).
      1. Unzip the downloaded file.
      2. Go to `chrome://extensions/` (or `edge://extensions/`) in your browser.
      3. Enable "Developer Mode" in the top-right corner.
@@ -135,6 +135,13 @@ Presto Google Maps Scraper is a powerful and easy-to-use tool that helps you ext
 ---
 
 ## Release Notes
+
+### Version 2.2.1 - Enhanced Auto Search & Stability Improvements  
+
+- **Improved Auto Search Feature:** The **Google Maps Scraper** now offers a more refined **Auto Search** function, ensuring smoother scrolling, better zoom adjustments, and more accurate business listings capture.  
+- **Increased Efficiency:** Optimized scanning speed and search precision, balancing performance and data depth for improved extraction results.  
+- **Enhanced Stability:** Further refinements to handling large-scale data extraction, reducing the risk of incomplete results or crashes.  
+- **Bug Fixes & Performance Enhancements:** Minor tweaks and optimizations for a seamless scraping experience.  
 
 ### Version 2.2.0 – Auto Search & Enhanced Data Extraction
 - **Auto Search Feature**: Automatically scans, zooms, and pans across new areas to capture a complete set of listings.
